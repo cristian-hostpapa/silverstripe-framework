@@ -85,7 +85,7 @@ class Zend_Cache_Core
         'caching'                   => true,
         'cache_id_prefix'           => null,
         'automatic_serialization'   => false,
-        'automatic_cleaning_factor' => 10,
+        'automatic_cleaning_factor' => 0,
         'lifetime'                  => 3600,
         'logging'                   => false,
         'logger'                    => null,
